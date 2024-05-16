@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\EstructuraP2\bin\Debug\EstructuraP2.exe.config
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\EstructuraP2\bin\Debug\EstructuraP2.exe
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\EstructuraP2\bin\Debug\EstructuraP2.pdb
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\EstructuraP2\obj\Debug\EstructuraP2.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\EstructuraP2\obj\Debug\EstructuraP2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\EstructuraP2\obj\Debug\EstructuraP2.exe
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\EstructuraP2\obj\Debug\EstructuraP2.pdb

@@ -1,0 +1,34 @@
+Tipo de documento: cedula 
+Número de documento: 1076543
+Nombre: andres
+Apellidos: grijalba
+Sexo: masculino
+Fecha de Nacimiento: 25/08/2005 12:00:00 a. m.
+Direccion: mz 179 
+Correo Electronico: kevingr@gmail.com
+Telefono: 34567543
+Municipio: valledupar
+Departamento: cesar
+Enfermedades previas: 
+Tratamientos previos: 
+Impresion diagnostica: gripa
+Usuario: andresgrijalba2005
+Password: eBEMum4p
+
+Tipo de documento: cedula
+Número de documento: 34567
+Nombre: Andres
+Apellidos: Grijalba
+Sexo: masculino
+Fecha de Nacimiento: 25/08/2005 12:00:00 a. m.
+Direccion: mz 179
+Correo Electronico: kevingr2508@gmail.com
+Telefono: 234567865
+Municipio: valledupar
+Departamento: cesar
+Enfermedades previas: 
+Tratamientos previos: 
+Impresion diagnostica: gripa
+Usuario: andresgrijalba2005
+Password: UmBchaOr
+
