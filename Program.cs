@@ -196,7 +196,6 @@ namespace RegistroPaciente
                 sw.WriteLine("Impresion diagnostica: " + impresionDiagnostico);
                 sw.WriteLine("Usuario: " + usuario);
                 sw.WriteLine("Password: " + password);
-                sw.WriteLine("");
                 sw.WriteLine();
             }
 
